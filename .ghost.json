@@ -4,7 +4,7 @@
     "contentApiKey": "5775b20620e3fd8ddfa8470911"
   },
   "production": {
-    "apiUrl": "https://wontheboon.serveo.net",
+    "apiUrl": "http://localhost:2368",
     "contentApiKey": "5775b20620e3fd8ddfa8470911"
   }
 }
