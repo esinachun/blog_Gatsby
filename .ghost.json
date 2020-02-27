@@ -4,7 +4,7 @@
     "contentApiKey": "5775b20620e3fd8ddfa8470911"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "2481f409bb40e337d4a79f1f5a"
+    "apiUrl": "ssh -R 0:localhost:2368 demo@sysb.ai",
+    "contentApiKey": "5775b20620e3fd8ddfa8470911"
   }
 }
